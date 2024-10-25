@@ -1,0 +1,7 @@
+Flask
+Flask-Login
+SQLALchemy 
+Flask-SQLAlchemy
+matplotlib
+numpy
+requests
